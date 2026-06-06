@@ -21,5 +21,9 @@
 - [เฉลยแบบฝึกหัด บทที่ 4](solutions/04_Arrays_and_Functions_Solutions.md)
 - [เฉลย Workshop ตะลุยโจทย์ 10 ข้อ](solutions/05_Workshop_Solutions.md)
 
+### 🏆 Bonus Challenge (โจทย์ปิดท้ายค่าย)
+โจทย์รวมมิตรที่ใช้ความรู้ครบทุกบท พร้อมบทพูด ไกด์สไลด์ และเฉลยในไฟล์เดียว
+- [Bonus: ระบบจัดการรายรับ-รายจ่ายส่วนตัว (Personal Finance Tracker)](bonus_challenge/Bonus_Personal_Finance_Tracker.md)
+
 ---
 *Note: ข้อมูลใน Repository นี้มีไว้สำหรับสตาฟฟ์เท่านั้น กรุณาอย่านำลิงก์เฉลยส่งให้เด็กๆ ในค่ายโดยตรงนะครับ 😉*
