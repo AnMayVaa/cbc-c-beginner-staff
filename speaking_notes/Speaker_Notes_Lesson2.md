@@ -815,10 +815,3 @@ int main() {
 
 ---
 
-
-# Speaker Notes: Lesson 3
-
----
-
----
-

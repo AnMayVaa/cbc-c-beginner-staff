@@ -8,10 +8,10 @@
 
 ### 🗣️ Speaker Notes (สคริปต์และข้อแนะนำสำหรับผู้สอน)
 รวบรวมคำอธิบาย และจุดที่ควรเน้นย้ำในแต่ละบท
-- [Lesson 1: C Fundamentals (โครงสร้างพื้นฐาน, printf, scanf)](speaking_notes/Speaker_Notes_Lesson1.md)
-- [Lesson 2: Data Types & Variables (ชนิดข้อมูลและการคำนวณ)](speaking_notes/Speaker_Notes_Lesson2.md)
-- [Lesson 3: Flow Control (if-else และ Loops)](speaking_notes/Speaker_Notes_Lesson3.md)
-- [Lesson 4: Arrays & Functions (อาร์เรย์และฟังก์ชัน)](speaking_notes/Speaker_Notes_Lesson4.md)
+- [Lesson 1: บทที่ 1 (Slides 1-32)](speaking_notes/Speaker_Notes_Lesson1.md)
+- [Lesson 2: บทที่ 2 (Slides 33-50)](speaking_notes/Speaker_Notes_Lesson2.md)
+- [Lesson 3: บทที่ 3 (Slides 51-66)](speaking_notes/Speaker_Notes_Lesson3.md)
+- [Workshop: ตะลุยโจทย์ 10 ข้อ](speaking_notes/Speaker_Notes_Workshop.md)
 
 ### 💡 Solutions (เฉลยแบบฝึกหัดและ Workshop)
 รวบรวมโค้ดเฉลยที่ถูกต้องของทุกแบบฝึกหัด เอาไว้ช่วยตรวจงานน้องๆ
